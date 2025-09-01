@@ -1,0 +1,11 @@
+1-Criar obejto cliente com:
+    >Nome
+    >Idade(por data de nascimento);
+    >Email
+
+2-Criar função que calcule a idade
+    >Talvez ignorar o dia
+
+3-Criar função que caso a pesso faça aniversario no mes anterior receba um Email, com a mensagem.
+    >Receber email no mes antes do aniversario
+    >Receber a mensagem.html
